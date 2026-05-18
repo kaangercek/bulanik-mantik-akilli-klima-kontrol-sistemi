@@ -61,6 +61,4 @@ Arayüzde:
     `-- fuzzy_climate_controller.py
 ```
 
-## Teslim İçin Not
 
-`REPORT.md` dosyası dönem projesi rapor akışına uygun hazırlanmıştır. Ayrıca `scripts/generate_word_report.py` betiği ile Word teslimine uygun `.docx` raporu da üretilebilir.
